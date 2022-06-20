@@ -1,4 +1,5 @@
 ## an attention tracker
+rtx 3060
 |dataset|success|FPS|
 |  ----  | ----  | ----  |
 |UAV123|0.683|49.2|
