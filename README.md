@@ -8,3 +8,12 @@ rtx 3060
 |LaSOT|0.658|46.3|
 |GOT10K|0.743|44.0|
 |trackingnet|83.01|45.7|
+## overall
+<img src="img/A.PNG" width="50%">
+
+## Block
+<img src="img/B.PNG" width="50%">
+
+## spin
+<img src="img/C.PNG" width="50%">
+<img src="img/D.PNG" width="30%">
